@@ -1,5 +1,4 @@
 package JavaProcFram;
-daddd
 import java.io.Serializable;
 import java.util.Date;
 
